@@ -1,2 +1,3 @@
-# hello-world new edition
-hello world repository for learning now has a new edition written by Jhinge classmates! This is simpler in usage:))
+hello-world 2nd edition
+hello world repository is my learning repository on github!!
+I love makeing new changes for experimenting.
